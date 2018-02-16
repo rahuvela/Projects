@@ -1,0 +1,14 @@
+html,body{
+    background-color:#33383E;
+    display: flex;
+    flex-dorection: column;
+    justify-content: center;
+    align-items: center;
+    height: 100%;
+    width: 100%;
+}
+
+.container {
+    display: inline-block;
+}
+

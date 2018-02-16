@@ -1,0 +1,275 @@
+(lp0
+S'2017-12-04 03:00:00+00'
+p1
+aVClouds
+p2
+aVfew clouds
+p3
+aF36.75
+aS'2017-12-04 06:00:00+00'
+p4
+aVClouds
+p5
+aVbroken clouds
+p6
+aF40.75
+aS'2017-12-04 09:00:00+00'
+p7
+aVClouds
+p8
+aVscattered clouds
+p9
+aF43.83
+aS'2017-12-04 12:00:00+00'
+p10
+aVClouds
+p11
+aVfew clouds
+p12
+aF45.92
+aS'2017-12-04 15:00:00+00'
+p13
+aVClouds
+p14
+aVfew clouds
+p15
+aF50.86
+aS'2017-12-04 18:00:00+00'
+p16
+aVClear
+p17
+aVclear sky
+p18
+aF60.94
+aS'2017-12-04 21:00:00+00'
+p19
+aVClear
+p20
+aVclear sky
+p21
+aF64.22
+aS'2017-12-05 00:00:00+00'
+p22
+aVClouds
+p23
+aVfew clouds
+p24
+aF62.93
+aS'2017-12-05 03:00:00+00'
+p25
+aVClouds
+p26
+aVbroken clouds
+p27
+aF62.96
+aS'2017-12-05 06:00:00+00'
+p28
+aVRain
+p29
+aVlight rain
+p30
+aF60.93
+aS'2017-12-05 09:00:00+00'
+p31
+aVRain
+p32
+aVmoderate rain
+p33
+aF54.88
+aS'2017-12-05 12:00:00+00'
+p34
+aVRain
+p35
+aVmoderate rain
+p36
+aF42.7
+aS'2017-12-05 15:00:00+00'
+p37
+aVRain
+p38
+aVlight rain
+p39
+aF39.73
+aS'2017-12-05 18:00:00+00'
+p40
+aVClouds
+p41
+aVovercast clouds
+p42
+aF39.16
+aS'2017-12-05 21:00:00+00'
+p43
+aVClouds
+p44
+aVbroken clouds
+p45
+aF37.24
+aS'2017-12-06 00:00:00+00'
+p46
+aVClouds
+p47
+aVbroken clouds
+p48
+aF33.94
+aS'2017-12-06 03:00:00+00'
+p49
+aVClear
+p50
+aVclear sky
+p51
+aF29.42
+aS'2017-12-06 06:00:00+00'
+p52
+aVClouds
+p53
+aVscattered clouds
+p54
+aF28.53
+aS'2017-12-06 09:00:00+00'
+p55
+aVClear
+p56
+aVclear sky
+p57
+aF26.47
+aS'2017-12-06 12:00:00+00'
+p58
+aVClear
+p59
+aVclear sky
+p60
+aF20.09
+aS'2017-12-06 15:00:00+00'
+p61
+aVClear
+p62
+aVclear sky
+p63
+aF22.73
+aS'2017-12-06 18:00:00+00'
+p64
+aVClear
+p65
+aVclear sky
+p66
+aF28.48
+aS'2017-12-06 21:00:00+00'
+p67
+aVClear
+p68
+aVclear sky
+p69
+aF30.45
+aS'2017-12-07 00:00:00+00'
+p70
+aVClear
+p71
+aVclear sky
+p72
+aF23.72
+aS'2017-12-07 03:00:00+00'
+p73
+aVClear
+p74
+aVclear sky
+p75
+aF19.69
+aS'2017-12-07 06:00:00+00'
+p76
+aVSnow
+p77
+aVlight snow
+p78
+aF22.36
+aS'2017-12-07 09:00:00+00'
+p79
+aVClear
+p80
+aVclear sky
+p81
+aF19.15
+aS'2017-12-07 12:00:00+00'
+p82
+aVClear
+p83
+aVclear sky
+p84
+aF18.06
+aS'2017-12-07 15:00:00+00'
+p85
+aVClear
+p86
+aVclear sky
+p87
+aF20.75
+aS'2017-12-07 18:00:00+00'
+p88
+aVClear
+p89
+aVclear sky
+p90
+aF25.46
+aS'2017-12-07 21:00:00+00'
+p91
+aVClear
+p92
+aVclear sky
+p93
+aF26.17
+aS'2017-12-08 00:00:00+00'
+p94
+aVClouds
+p95
+aVfew clouds
+p96
+aF19.53
+aS'2017-12-08 03:00:00+00'
+p97
+aVClouds
+p98
+aVscattered clouds
+p99
+aF16.86
+aS'2017-12-08 06:00:00+00'
+p100
+aVClear
+p101
+aVclear sky
+p102
+aF17.43
+aS'2017-12-08 09:00:00+00'
+p103
+aVClear
+p104
+aVclear sky
+p105
+aF20.49
+aS'2017-12-08 12:00:00+00'
+p106
+aVClear
+p107
+aVclear sky
+p108
+aF21.98
+aS'2017-12-08 15:00:00+00'
+p109
+aVSnow
+p110
+aVlight snow
+p111
+aF26.24
+aS'2017-12-08 18:00:00+00'
+p112
+aVSnow
+p113
+aVlight snow
+p114
+aF31.74
+aS'2017-12-08 21:00:00+00'
+p115
+aVSnow
+p116
+aVlight snow
+p117
+aF32.6
+a.

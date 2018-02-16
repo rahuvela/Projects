@@ -1,0 +1,29 @@
+.contact-body{
+	padding-top: 50px;
+	padding-left: 350px;	
+	display: inline-block;
+    margin: 0px auto;
+    float: center;
+    color: #EEEDEB;
+}
+
+.my-footer{
+  position: absolute;  
+  bottom: 0;
+  right: 0;
+  left: 0;
+}
+
+.form-group{
+	width: 500px;
+	
+}
+
+.body{
+	float: center;
+}
+
+h1{
+	font-size: 20px;
+	padding-bottom: 20px;
+}
